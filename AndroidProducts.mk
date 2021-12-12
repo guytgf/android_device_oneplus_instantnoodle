@@ -21,3 +21,10 @@ COMMON_LUNCH_CHOICES := \
     lineage_instantnoodle-user \
     lineage_instantnoodle-userdebug \
     lineage_instantnoodle-eng
+
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/Octavi_instantnoodle.mk
+COMMON_LUNCH_CHOICES := \
+    Octavi_instantnoodle-user \
+    Octavi_instantnoodle-userdebug \
+    Octavi_instantnoodle-eng
