@@ -24,6 +24,7 @@ COMMON_LUNCH_CHOICES := \
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/Octavi_instantnoodle.mk
+    
 COMMON_LUNCH_CHOICES := \
     Octavi_instantnoodle-user \
     Octavi_instantnoodle-userdebug \
